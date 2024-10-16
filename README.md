@@ -86,7 +86,3 @@ User authentication is handled using JWT tokens. When a user signs in, a token i
 ### Password Hashing
 
 Passwords are hashed using `crypto` with a random salt for each user, ensuring strong security.
-
-## License
-
-This project is licensed under the MIT License.
